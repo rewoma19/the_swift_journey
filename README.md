@@ -14,6 +14,10 @@ Solution:
 
 ## Day 2: Booleans
 
+Instructions:
+
 - [WINGSQUEST.MD](Booleans/WingsQuest/WINGSQUEST.md)
+
+Solution:
 
 - [WingsQuest.swift](Booleans/WingsQuest/WingsQuest.swift)
