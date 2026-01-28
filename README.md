@@ -31,3 +31,13 @@ Instructions:
 Solution:
 
 - [FreeRates.swift](Numbers/FreeRates/FreeRates.swift)
+
+## Day 4: Characters and Strings
+
+Instructions:
+
+- [CALSHOP.md](CharsAndStrings/CalShop/CALSHOP.md)
+
+Solution:
+
+- [CalShop.swift](CharsAndStrings/CalShop/CalShop.swift)
