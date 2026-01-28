@@ -21,3 +21,13 @@ Instructions:
 Solution:
 
 - [WingsQuest.swift](Booleans/WingsQuest/WingsQuest.swift)
+
+## Day 3: Numbers
+
+Instructions:
+
+- [FREERATES.md](Numbers/FreeRates/FREERATES.md)
+
+Solution:
+
+- [FreeRates.swift](Numbers/FreeRates/FreeRates.swift)
