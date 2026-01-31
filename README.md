@@ -41,3 +41,13 @@ Instructions:
 Solution:
 
 - [CalShop.swift](CharsAndStrings/CalShop/CalShop.swift)
+
+## Day 5: Conditionals
+
+Instructions:
+
+- [VEHICLEPURCHASE.md](Conditionals/VehiclePurchase/VEHICLEPURCHASE.md)
+
+Solution:
+
+- [VehiclePurchase.swift](Conditionals/VehiclePurchase/VehiclePurchase.swift)
