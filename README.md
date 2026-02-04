@@ -51,3 +51,13 @@ Instructions:
 Solution:
 
 - [VehiclePurchase.swift](Conditionals/VehiclePurchase/VehiclePurchase.swift)
+
+## Day 6: Arrays
+
+Instructions:
+
+- [MAGICIANTRAINING.md](Arrays/MagicianTraining/MAGICIANTRAINING.md)
+
+Solution:
+
+- [MagicianTraining.swift](Arrays/MagicianTraining/MagicianTraining.swift)
