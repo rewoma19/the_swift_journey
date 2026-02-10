@@ -61,3 +61,13 @@ Instructions:
 Solution:
 
 - [MagicianTraining.swift](Arrays/MagicianTraining/MagicianTraining.swift)
+
+## Day 7: Ranges
+
+Instructions:
+
+- [CHESSBOARD.md](Ranges/Chessboard/CHESSBOARD.md)
+
+Solution:
+
+- [Chessboard.swift](Ranges/Chessboard/Chessboard.swift)
