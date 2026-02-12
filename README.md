@@ -71,3 +71,13 @@ Instructions:
 Solution:
 
 - [Chessboard.swift](Ranges/Chessboard/Chessboard.swift)
+
+## Day 8: For Loops
+
+Instructions:
+
+- [BIRDWATCHER.md](ForLoops/BirdWatcher/BIRDWATCHER.md)
+
+Solution:
+
+- [BirdWatcher.swift](ForLoops/BirdWatcher/BirdWatcher.swift)
