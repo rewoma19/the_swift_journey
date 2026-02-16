@@ -81,3 +81,13 @@ Instructions:
 Solution:
 
 - [BirdWatcher.swift](ForLoops/BirdWatcher/BirdWatcher.swift)
+
+## Day 9: Tuples
+
+Instructions:
+
+- [SantasHelper.md](Tuples/SantasHelper/SANTASHELPER.md)
+
+Solution:
+
+- [SantasHelper.swift](Tuples/SantasHelper/SantasHelper.swift)
