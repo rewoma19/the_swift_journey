@@ -91,3 +91,13 @@ Instructions:
 Solution:
 
 - [SantasHelper.swift](Tuples/SantasHelper/SantasHelper.swift)
+
+## Day 10: Optionals
+
+Instructions:
+
+- [SLICESIZING.md](Optionals/SliceSizing/SLIZESIZING.md)
+
+Solution:
+
+- [SliceSizing.swift](Optionals/SliceSizing/SlizeSizing.swift)
