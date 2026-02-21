@@ -101,3 +101,13 @@ Instructions:
 Solution:
 
 - [SliceSizing.swift](Optionals/SliceSizing/SlizeSizing.swift)
+
+## Day 11: Functions
+
+Instructions:
+
+- [SECRETAGENT.md](Functions/SecretAgent/SECRETAGENT.md)
+
+Solution:
+
+- [SecretAgent.swift](Functions/SecretAgent/SecretAgent.swift)
