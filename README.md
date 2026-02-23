@@ -111,3 +111,13 @@ Instructions:
 Solution:
 
 - [SecretAgent.swift](Functions/SecretAgent/SecretAgent.swift)
+
+## Day 12: Loops, Switch and Control Transfer
+
+Instructions:
+
+- [EXPERTMIXOLOGIST.md](LoopsSwitchAndTransfer/ExpertMixologist/EXPERTMIXOLOGIST.md)
+
+Solution:
+
+- [ExpertMixologist.swift](LoopsSwitchAndTransfer/ExpertMixologist/ExpertMixologist.swift)
