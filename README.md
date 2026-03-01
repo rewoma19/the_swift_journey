@@ -121,3 +121,13 @@ Instructions:
 Solution:
 
 - [ExpertMixologist.swift](LoopsSwitchAndTransfer/ExpertMixologist/ExpertMixologist.swift)
+
+## Day 13: Dictionaries
+
+Instructions:
+
+- [HIGHSCOREBOARD.md](Dictionaries/HighScoreBoard/HIGHSCOREBOARD.md)
+
+Solution:
+
+- [HighScoreBoard.swift](Dictionaries/HighScoreBoard/HighScoreBoard.swift)
